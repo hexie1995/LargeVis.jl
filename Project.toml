@@ -1,0 +1,9 @@
+name = "LargeVis"
+uuid = "915980dc-96e3-11eb-2409-b33e3e66169a"
+authors = ["Xie He <hexie@email.unc.edu"]
+version = "0.0.1"
+
+[deps]
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
